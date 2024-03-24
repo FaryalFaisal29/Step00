@@ -1,0 +1,2 @@
+"use strict";
+console.log("THANK YOU GOVERNOR SINDH MR KAMRAN KHAN TESSORI");
